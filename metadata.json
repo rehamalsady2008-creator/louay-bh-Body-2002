@@ -1,0 +1,10 @@
+{
+  "name": "نور الإسلام - Noor Al-Islam",
+  "description": "Comprehensive Islamic app featuring Holy Quran, Adhkar, Prayer Times, Qibla, Ruqyah, and AI Assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

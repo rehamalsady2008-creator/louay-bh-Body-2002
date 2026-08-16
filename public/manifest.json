@@ -1,0 +1,18 @@
+{
+  "name": "نور الإسلام - Noor Al-Islam",
+  "short_name": "نور الإسلام",
+  "description": "تطبيق نور الإسلام الشامل: القرآن الكريم، أذكار حصن المسلم، مواقيت الصلاة، والتسبيح بدون إعلانات وبدون إنترنت",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/app_avatar.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
